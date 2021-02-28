@@ -1,8 +1,15 @@
 # James Kramer
 
 Houston, TX  77062<br>
-(346) 298-3156
+(346) 298-3156<br>
 jkramer00uh05nd@gmail.com
+
+## EDUCATION
+
+* 2005 &mdash; M.S., Computer Science and Engineering, Notre Dame University
+* 2000 &mdash; B.S., Computer Science and Information, Univeristy of Hawai'i at Manoa
+* 2000 &mdash; B.A., Philosophy, University of Hawai'i at Manoa
+
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -15,12 +22,8 @@ Collaborated with company founder on the _AndOr_ platform, a general application
 ### Information Technology Manager (2007 to 2011), Bear Fight Institute
 Managed IT department of a non-profit research institution. Increased computational efficiency of spectral deconvolution software for analysis of planetary spacecraft data by NASA scientists by an order of magnitude.
 
-
-## EDUCATION
-
-* 2005 &mdash; M.S., Computer Science and Engineering, Notre Dame University
-* 2000 &mdash; B.S., Computer Science and Information, Univeristy of Hawai'i at Manoa
-* 2000 &mdash; B.A., Philosophy, University of Hawai'i at Manoa
+### Research Associate (2005 to 2007), Notre Dame University
+Developed the Agent Development Environment (ADE) for distributed, failure­tolerant autonomous robots, which has since provided the platform for dozens of peer­reviewed publications for over 15 years. 
 
 
 ## PUBLICATIONS
