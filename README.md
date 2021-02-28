@@ -2,7 +2,10 @@
 
 Houston, TX  77062<br>
 (346) 298-3156<br>
-jkramer00uh05nd@gmail.com
+jkramer00uh05nd@gmail.com<br>
+<p>
+Software engineer with 15+ years experience researching, integrating, and developing technologies for robotics, intelligent agents, and automation.
+
 
 ## EDUCATION
 
