@@ -17,7 +17,12 @@ Software engineer with 15+ years experience researching, integrating, and develo
 ## PROFESSIONAL EXPERIENCE
 
 ### Senior Software Engineer (2011 to Present), TRACLabs, Inc.
-Lead architect and developer of PRIDE Automation and PRIDE Monitoring to enable autonomous procedure execution for the PRIDE software suite, utilized commercially by Fortune 500, private spaceflight companies, and NASA. 
+Lead architect and developer of PRIDE Automation and PRIDE Monitoring to enable autonomous procedure execution for the PRIDE software suite, utilized commercially by Fortune 500, private spaceflight companies, and NASA. Accomplished ROS developer, with applications including:
+
+* DRC
+* Integration with PRIDE
+* Designed a no-contact, continuous motion gesture recognition system
+* Boston Dynamics Atlas, NASA's Valkyrie, Robonaut2, Astrobee, TRACBot
 
 ### Solutions Consultant (2009 to 2010), Scienna, Inc.
 Collaborated with company founder on the _AndOr_ platform, a general application development framework for creating internet-distributed form-based data collection systems. Analyzed and corrected proprietary business logic rules engine called _SciennaRules!_ for consistency, completeness, and efficiency. Implemented an automated OCR pipeline for analysis of foreclosure/eviction legal documents and real estate portfolio due diligence.
