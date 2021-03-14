@@ -9,7 +9,7 @@ Software engineer with 15+ years experience researching, integrating, and develo
 
 ## EDUCATION
 
-* 2005 &mdash; M.S., Computer Science and Engineering, Notre Dame University
+* 2005 &mdash; M.S., Computer Science and Engineering, University of Notre Dame
 * 2000 &mdash; B.S., Computer Science and Information, Univeristy of Hawai'i at Manoa
 * 2000 &mdash; B.A., Philosophy, University of Hawai'i at Manoa
 
@@ -17,7 +17,7 @@ Software engineer with 15+ years experience researching, integrating, and develo
 ## PROFESSIONAL EXPERIENCE
 
 ### Senior Software Engineer (2011 to Present), TRACLabs, Inc.
-Lead architect and developer of PRIDE Automation and PRIDE Monitoring to enable autonomous procedure execution for the PRIDE software suite, utilized commercially by Fortune 500, private spaceflight companies, and NASA. Accomplished ROS developer on a variety of projects, including the 3 stages of the DARPA Robotics Challenge and PRIDE/ROS integration.
+Lead architect and developer of PRIDE Automation and PRIDE Monitoring to enable autonomous procedure execution for the PRIDE software suite, utilized commercially by Fortune 500, private spaceflight companies, and NASA. Accomplished ROS developer on a variety of projects, including ROS integration with PRIDE and the 3 stages of the DARPA Robotics Challenge.
 
 Related videos:
 * (2020) [PHARAOH Phase II &mdash; ISS caretaking demonstration (simulation)](https://www.youtube.com/watch?v=Xzv02X2X3uE)
