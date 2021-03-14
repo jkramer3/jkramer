@@ -20,11 +20,11 @@ Software engineer with 15+ years experience researching, integrating, and develo
 Lead architect and developer of PRIDE Automation and PRIDE Monitoring to enable autonomous procedure execution for the PRIDE software suite, utilized commercially by Fortune 500, private spaceflight companies, and NASA. Accomplished ROS developer on a variety of projects, including the 3 stages of the DARPA Robotics Challenge and PRIDE/ROS integration.
 
 Related videos:
-* [Atlas robot performing tasks at the DRC Finals](https://www.youtube.com/watch?v=LqtinDiT2xE)
-* [Atlas mimicking human motion using a Kinect](https://www.youtube.com/watch?v=LqtinDiT2xE)
-* [Using PRIDE for TRACBot navigation and manipulation (simulation)](https://www.youtube.com/watch?v=LqtinDiT2xE)
-* [PHARAOH Phase I &mdash; automating Robonaut2 taskboard manipulation (simulation)](https://www.youtube.com/watch?v=LqtinDiT2xE)
-* [PHARAOH Phase II &mdash; ISS caretaking demonstration (simulation)](https://www.youtube.com/watch?v=LqtinDiT2xE)
+* (2020) [PHARAOH Phase II &mdash; ISS caretaking demonstration (simulation)](https://www.youtube.com/watch?v=Xzv02X2X3uE)
+* (2017) [Using PRIDE for TRACBot navigation and manipulation (simulation)](https://www.youtube.com/watch?v=npuH51OtAVU)
+* (2016) [PHARAOH Phase I &mdash; automating Robonaut2 taskboard manipulation (simulation)](https://www.youtube.com/watch?v=gyIKjfvmD38)
+* (2015) [Atlas robot performing tasks at the DRC Finals](https://www.youtube.com/watch?v=LqtinDiT2xE)
+* (2014) [Atlas mimicking human motion using a Kinect](https://www.youtube.com/watch?v=L_JJ3NWT5pI)
 
 ### Solutions Consultant (2009 to 2010), Scienna, Inc.
 Collaborated with company founder on the _AndOr_ platform, a general application development framework for creating internet-distributed form-based data collection systems. Analyzed and corrected proprietary business logic rules engine called _SciennaRules!_ for consistency, completeness, and efficiency. Implemented an automated OCR pipeline for analysis of foreclosure/eviction legal documents and real estate portfolio due diligence.
