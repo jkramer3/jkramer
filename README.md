@@ -32,7 +32,7 @@ Collaborated with company founder on the _AndOr_ platform, a general application
 ### Information Technology Manager (2007 to 2011), Bear Fight Institute
 Managed IT department of a non-profit research institution. Increased computational efficiency of spectral deconvolution software for analysis of planetary spacecraft data by NASA scientists by an order of magnitude.
 
-### Research Associate (2005 to 2007), Notre Dame University
+### Research Associate (2005 to 2007), University of Notre Dame
 Developed the Agent Development Environment (ADE) for distributed, failure­tolerant autonomous robots, which has since provided the platform for dozens of peer reviewed publications for over 15 years.
 
 
