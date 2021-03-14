@@ -27,13 +27,13 @@ Related videos:
 * (2014) [Atlas mimicking human motion using a Kinect](https://www.youtube.com/watch?v=L_JJ3NWT5pI)
 
 ### Solutions Consultant (2009 to 2010), Scienna, Inc.
-Collaborated with company founder on the _AndOr_ platform, a general application development framework for creating internet-distributed form-based data collection systems. Analyzed and corrected proprietary business logic rules engine called _SciennaRules!_ for consistency, completeness, and efficiency. Implemented an automated OCR pipeline for analysis of foreclosure/eviction legal documents and real estate portfolio due diligence.
+Collaborated with company founder on the _AndOr_ platform, a general application development framework for creating internet-distributed form-based data collection systems. Analyzed and corrected proprietary business logic rules engine called _SciennaRules!_ for consistency, completeness, and efficiency. Implemented an automated OCR pipeline for analysis of real-estate related legal documents and portfolio due diligence.
 
 ### Information Technology Manager (2007 to 2011), Bear Fight Institute
 Managed IT department of a non-profit research institution. Increased computational efficiency of spectral deconvolution software for analysis of planetary spacecraft data by NASA scientists by an order of magnitude.
 
 ### Research Associate (2005 to 2007), Notre Dame University
-Developed the Agent Development Environment (ADE) for distributed, failure­tolerant autonomous robots, which has since provided the platform for dozens of peer­reviewed publications for over 15 years. 
+Developed the Agent Development Environment (ADE) for distributed, failure­tolerant autonomous robots, which has since provided the platform for dozens of peer reviewed publications for over 15 years.
 
 
 ## PUBLICATIONS
