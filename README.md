@@ -20,9 +20,9 @@ Software engineer with 15+ years experience researching, integrating, and develo
 Lead architect and developer of PRIDE Automation and PRIDE Monitoring to enable autonomous procedure execution for the PRIDE software suite, utilized commercially by Fortune 500, private spaceflight companies, and NASA. Accomplished ROS developer on a variety of projects, including the 3 stages of the DARPA Robotics Challenge and PRIDE/ROS integration.
 
 Related videos:
-* [TRACLabs at the DRC Finals](https://www.youtube.com/watch?v=LqtinDiT2xE)
-* [Motion mimic using a Kinect](https://www.youtube.com/watch?v=LqtinDiT2xE)
-* [PRIDE for TRACBot navigation and manipulation](https://www.youtube.com/watch?v=LqtinDiT2xE)
+* [Atlas robot performing tasks at the DRC Finals](https://www.youtube.com/watch?v=LqtinDiT2xE)
+* [Atlas mimicking human motion using a Kinect](https://www.youtube.com/watch?v=LqtinDiT2xE)
+* [Using PRIDE for TRACBot navigation and manipulation (simulation)](https://www.youtube.com/watch?v=LqtinDiT2xE)
 * [PHARAOH Phase I &mdash; automating Robonaut2 taskboard manipulation (simulation)](https://www.youtube.com/watch?v=LqtinDiT2xE)
 * [PHARAOH Phase II &mdash; ISS caretaking demonstration (simulation)](https://www.youtube.com/watch?v=LqtinDiT2xE)
 
