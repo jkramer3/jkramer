@@ -24,7 +24,9 @@ Related videos:
 * (2017) [Using PRIDE for TRACBot navigation and manipulation (simulation)](https://www.youtube.com/watch?v=npuH51OtAVU)
 * (2016) [PHARAOH Phase I &mdash; automating Robonaut2 taskboard manipulation (simulation)](https://www.youtube.com/watch?v=gyIKjfvmD38)
 * (2015) [Atlas robot performing tasks at the DRC Finals](https://www.youtube.com/watch?v=LqtinDiT2xE)
+* (2014) [2-arm egosphere gesture visualization in RViz](http://personal.traclabs.com/~jkramer3/gesture-2arms.mp4)
 * (2014) [Atlas mimicking human motion using a Kinect](https://www.youtube.com/watch?v=L_JJ3NWT5pI)
+* (2012) [Betabot obstacle avoidance (Qt HSSH UI, simulation)](http://personal.traclabs.com/~jkramer3/hssh-dynamic-obstacle.ogv)
 
 ### Solutions Consultant (2009 to 2010), Scienna, Inc.
 Collaborated with company founder on the _AndOr_ platform, a general application development framework for creating internet-distributed form-based data collection systems. Analyzed and corrected proprietary business logic rules engine called _SciennaRules!_ for consistency, completeness, and efficiency. Implemented an automated OCR pipeline for analysis of real-estate related legal documents and portfolio due diligence.
